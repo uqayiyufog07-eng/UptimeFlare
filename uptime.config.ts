@@ -10,9 +10,11 @@ const pageConfig: PageConfig = {
   title: "lyc8503's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://github.com/lyc8503', label: 'GitHub' },
-    { link: 'https://blog.lyc8503.net/', label: 'Blog' },
-    { link: 'mailto:me@lyc8503.net', label: 'Email Me', highlight: true },
+    { link: 'https://github.com/uqayiyufog07-eng/', label: 'GitHub' },
+    { link: 'https://home.laoqian303.qzz.io/', label: 'Home' },
+    { link: 'https://blog.laoqian303.qzz.io/', label: 'Blog' },
+    { link: 'https://wine.laoqian303.qzz.io/', label: 'Wine' },
+    { link: 't.me/laoqian303', label: 'Tell Me', highlight: true },
   ],
 }
 
